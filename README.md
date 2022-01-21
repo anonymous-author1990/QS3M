@@ -3,4 +3,5 @@ We propose a Query-Specific Siamese Similarity Metric (QS3M) for query-specific 
 
 ## Download dataset
 Download the dataset used for this project from this google drive link: https://drive.google.com/drive/folders/1jTOYL-QnE2B8de42ESithlRN970K_Wfo?usp=sharing
-*Dataset will be added upon acceptance in JCDL 2022
+
+Dataset will be added upon acceptance in JCDL 2022.
